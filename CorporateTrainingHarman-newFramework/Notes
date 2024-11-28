@@ -1,0 +1,45 @@
+
+
+Maven Project execution
+==========================
+Plugin
+===========
+1.compiler plugin
+https://maven.apache.org/plugins/maven-compiler-plugin/
+2.surefire plugin
+https://maven.apache.org/surefire/maven-surefire-plugin/
+
+Using Pom.xml
+===================
+perform goal(Build life cycle)
+===================
+https://maven.apache.org/guides/index.html
+
+1.clean: delete all everything from target folder
+2.test : test execution
+3.install: install + execution
+
+
+
+clone and pull
+===================
+create folder
+git init
+git clone repo address
+git pull origin master
+git branch -a
+git checkout framework
+
+
+
+Todays topics:
+=============
+Reports
+parallel execution
+
+Cucumber
+
+
+REstAssured
+
+

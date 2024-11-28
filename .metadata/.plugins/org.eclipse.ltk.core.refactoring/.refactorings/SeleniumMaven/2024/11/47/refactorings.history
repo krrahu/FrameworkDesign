@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 5 elements from project &apos;SeleniumMaven&apos;&#x0D;&#x0A;- Original project: &apos;SeleniumMaven&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     clickAction1732086191937.png&#x0D;&#x0A;     FullPage.png&#x0D;&#x0A;     Homepage1732086191672.png&#x0D;&#x0A;     pic.png&#x0D;&#x0A;     projectName1732086039522.png" description="Delete elements" element1="Screenshots/Homepage1732086191672.png" element2="Screenshots/pic.png" element3="Screenshots/projectName1732086039522.png" element4="Screenshots/FullPage.png" element5="Screenshots/clickAction1732086191937.png" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="5" stamp="1732371883761" subPackages="false" version="1.0"/>
+</session>
