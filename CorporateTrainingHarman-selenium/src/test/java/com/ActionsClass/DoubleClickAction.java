@@ -19,6 +19,7 @@ public class DoubleClickAction {
 	  Actions act=new Actions(driver);
 	  act.doubleClick(ele).perform();
 	  
+	  // alert 
 	  driver.switchTo().alert().accept();
 	  
 	  
