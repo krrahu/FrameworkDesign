@@ -19,7 +19,7 @@ public class DoubleClickAction {
 	  Actions act=new Actions(driver);
 	  act.doubleClick(ele).perform();
 	  
-	  // alert modified
+	  // changes to jenkin
 	  driver.switchTo().alert().accept();
 	  
 	  
