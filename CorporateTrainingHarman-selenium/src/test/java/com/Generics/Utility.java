@@ -19,7 +19,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class Utility {
 
 	
-	// Screenshot for not full page
+	// Screenshot for not full page---//
 	public static void getScreenshot(WebDriver driver,String name)
 	{
 		 TakesScreenshot ts=(TakesScreenshot) driver;
