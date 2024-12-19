@@ -32,7 +32,7 @@ public class JavascriptExecutorDemo {
 	  js.executeScript("arguments[0].click();",cartele);
 	  
 	  
-	  
+	
 	  
 	  /*
 	  Utility.scrollDown(driver);

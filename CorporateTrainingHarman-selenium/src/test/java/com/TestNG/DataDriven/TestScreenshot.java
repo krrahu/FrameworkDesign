@@ -35,9 +35,7 @@ public class TestScreenshot {
 	} catch (IOException e) {
 		// TODO Auto-generated catch block
 		e.printStackTrace();
-	}
-	  
-	  
+	}  
 	  
 	  /*TakesScreenshot is a interface  so we can't create object so we will convert our driver
 	   *  object into TakesScreenshot by type casting to access TakesScreenshot methods

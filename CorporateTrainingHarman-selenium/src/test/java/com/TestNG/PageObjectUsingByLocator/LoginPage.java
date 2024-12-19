@@ -11,8 +11,10 @@ public class LoginPage
 	private WebDriver driver;
 	
 	
-	//constructor to initialize driver
-	public LoginPage(WebDriver driver)//base class driver
+	//constructor is used to initialize driver
+		//calling driver from base class i.e from constructor and initializing into LoginPage class independently
+		
+	public LoginPage(WebDriver driver)//this is constructor and calling driver from base class 
 	{
 		this.driver=driver;
 	}

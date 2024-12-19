@@ -1,17 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-28T22:20:23 IST" name="Default suite" finished-at="2024-11-28T22:20:30 IST" duration-ms="7639">
+  <suite started-at="2024-12-06T23:11:58 IST" name="Default suite" finished-at="2024-12-06T23:11:58 IST" duration-ms="51">
     <groups>
     </groups>
-    <test started-at="2024-11-28T22:20:23 IST" name="Default test" finished-at="2024-11-28T22:20:30 IST" duration-ms="7639">
-      <class name="com.ActionsClass.DoubleClickAction">
-        <test-method signature="testDoubleClick()[pri:0, instance:com.ActionsClass.DoubleClickAction@158d2680]" started-at="2024-11-28T22:20:23 IST" name="testDoubleClick" finished-at="2024-11-28T22:20:30 IST" duration-ms="7578" status="PASS">
+    <test started-at="2024-12-06T23:11:58 IST" name="Default test" finished-at="2024-12-06T23:11:58 IST" duration-ms="51">
+      <class name="com.TestNG.Annotations.ClassB">
+        <test-method is-config="true" signature="bsuite()[pri:0, instance:com.TestNG.Annotations.ClassB@31304f14]" started-at="2024-12-06T23:11:58 IST" name="bsuite" finished-at="2024-12-06T23:11:58 IST" duration-ms="11" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testDoubleClick -->
-      </class> <!-- com.ActionsClass.DoubleClickAction -->
+        </test-method> <!-- bsuite -->
+        <test-method is-config="true" signature="btest()[pri:0, instance:com.TestNG.Annotations.ClassB@31304f14]" started-at="2024-12-06T23:11:58 IST" name="btest" finished-at="2024-12-06T23:11:58 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btest -->
+        <test-method signature="testCase1()[pri:0, instance:com.TestNG.Annotations.ClassB@31304f14]" started-at="2024-12-06T23:11:58 IST" name="testCase1" finished-at="2024-12-06T23:11:58 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method signature="testCase2()[pri:0, instance:com.TestNG.Annotations.ClassB@31304f14]" started-at="2024-12-06T23:11:58 IST" name="testCase2" finished-at="2024-12-06T23:11:58 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method is-config="true" signature="atest()[pri:0, instance:com.TestNG.Annotations.ClassB@31304f14]" started-at="2024-12-06T23:11:58 IST" name="atest" finished-at="2024-12-06T23:11:58 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest -->
+        <test-method is-config="true" signature="asuite()[pri:0, instance:com.TestNG.Annotations.ClassB@31304f14]" started-at="2024-12-06T23:11:58 IST" name="asuite" finished-at="2024-12-06T23:11:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asuite -->
+      </class> <!-- com.TestNG.Annotations.ClassB -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

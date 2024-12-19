@@ -10,7 +10,7 @@ public class BaseClass
 {
 
 	public WebDriver driver;
-	public LoginPage lp;
+	public LoginPage lp;// declaration
 	
 	@BeforeClass
 	public void setUp()
@@ -18,7 +18,7 @@ public class BaseClass
 		driver=new ChromeDriver();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
-		lp=new LoginPage(driver);
+		lp=new LoginPage(driver); // initialization
 		
 		
 	}

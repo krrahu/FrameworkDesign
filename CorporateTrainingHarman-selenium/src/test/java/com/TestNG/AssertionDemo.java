@@ -20,7 +20,6 @@ public class AssertionDemo {
 	  
 	  Assert.assertTrue(a==b,"Test Fail: As numbers are not equal!");
 	  System.out.println("Test Pass: As numbers are equal!");
-
 	  }
   
   @Test

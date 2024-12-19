@@ -20,7 +20,7 @@ public class CustomData {
 	}
 	
 	
-//---------------------------------------------------------------------------//	
+//-------------------------utility of read data from excel--------------------------------------------------//	
 	
 	
 	 public XSSFWorkbook wb; // Declaring globally to handle exception at one short
